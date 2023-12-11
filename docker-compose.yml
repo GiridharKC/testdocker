@@ -1,7 +1,7 @@
 version: '3.2'
 services:
   hello1:
-    image: giridharakc/hello:1
+    image: giridharakc/hello:2
     container_name: hello1
     restart: always
 

@@ -1,7 +1,7 @@
 version: '3.2'
 services:
   app1:
-    image: giridharakc/app1:2
+    image: giridharakc/app1:5
     container_name: app1
     restart: always
   app2:
